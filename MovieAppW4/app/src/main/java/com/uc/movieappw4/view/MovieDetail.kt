@@ -1,11 +1,12 @@
-package com.uc.movieappw4
+package com.uc.movieappw4.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.uc.movieappw4.R
 
-class MainActivity : AppCompatActivity() {
+class MovieDetail : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_movie_detail)
     }
 }

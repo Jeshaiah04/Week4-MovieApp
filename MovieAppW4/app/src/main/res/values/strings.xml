@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MovieAppW4</string>
+    <string name="kosongan" />
+    <string name="genre" />
+    <string name="language" />
+    <string name="production" />
+    <string name="overview" />
+    <string name="image" />
 </resources>
